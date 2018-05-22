@@ -1,5 +1,7 @@
+# Sauna,
+# october etc.
 
-ca: 2:23:xx ...
+ca: 2:23:xx ... {
   Schiff - b'sirah
   
   he swims -  hu soche
@@ -15,6 +17,7 @@ ca: 2:23:xx ...
   do you ski  - ata golesch ski
   do you take the skilift to the top - ata ole b....
   can one rent skis here - nitan l'skor ....
+}
 
 ca 2:42
   
@@ -165,9 +168,8 @@ ca 2:52 arbaim ve arba (44)
      .. pyjamis, 
      
 
-# Sauna
 
-ca 3:34
+ca 3:34 {
 
   I am looking for a baker's - ani mechapez kondituria #
   i actually plan to buy a ring - ani metachnetet liknot baat 
@@ -178,9 +180,254 @@ ca 3:34
    .. for a foto shop to buy a role of film - ani mechapeset chanut zilum kedei liknot ...
    .. for a bakers to buy a cake - ani mechapeset kondituria kedei liknot luga
 
-ca 3:36 chamischim ve arba (54)
+}
+ca 3:36 chamischim ve arba (54) {
 
   I want to buy a present - ani roze liknot matana
   but nothing too expensive - aval lo maschehu jakar midai
   maybe a handbag - ulai tik yad
   which color would you like - b'eize zevah
+
+}
+ca 4:07:xx {
+
+  Six months make a year - 
+
+  january february march - Januar - Februar - März
+
+  The seventh month is july - hachodesch hasevily hu juli
+  ninth - hatschi'i
+  tenth - haassiri
+  eleventh - ha echad assar
+  twelth - ha schne(i)m assar
+
+  twelthe months make a year - schneim assar chodeschim hem ....
+   
+}
+{ 4:10 schischim u schtaim (62)
+
+  Asking questions - 
+
+  to learn - lilmod
+
+  no, they learn a little  - lo, hem lomdim meat
+  to ask - lisch'ol
+
+  do you often ask the teacher questions - at schoelet
+  no i don't ask him questions often - lo, ani lo schoelet ...
+  to reply - la'anot
+
+  please replay - taane bevakashah
+  I replay - ani one / ani ona
+  to work - la'avod
+  is he working right now - hu oved kaet
+  yes, he is working right now - ken, hu oved
+  to come - lavo
+  are you coming - ata ba / at ba'a
+  yes were coming soom - anachnu od mead baim
+  to live - lagur
+  do you live in berlin - ata gar be berlin
+  yes i live in berlin - ken ani gar be berlin
+
+
+}
+4: ?? schischim ve schalosch  ( 63) {
+
+  I have a hobby - jeschli tachbiv
+  I play tennis - ani mesacheg tennis
+  Where is the tennis cours - eichan timza migrasch ha tennis
+  do you have a hobby - jeschlech tachbiv
+  I play football - ani mesacheg kadu regel
+  where is the football field - eichan nimza ... 
+  my arm hurts - koevet li hazroa
+  my foot foot and hand also hurt - gam ha regel ve hayad ...
+  is there a doctor -
+  I have a car - yeschli mechonit
+
+}
+4:34 {
+
+  seventy years ago he was still young - livney ...
+  beautiful and ugly - japhe u mechoar
+  the butterfly is beautiful - ha parpar
+  the spider is ugly - ha ..
+  fat and thin - schamen ve raze
+  a womon who weighs 100 kilo is fat - ischa sche ...
+  a man who weighs 50 kilo is fin - isch sche schokel ....
+  expensive and cheap - yakar ve sol
+  the car is expensive - ha m'chenot
+  the newspaper is cheap - ha iton sol
+
+
+}
+4:37 schischim va tescha (69) { 
+
+  to need to / to want to - lizroch, 
+  i need a bed - ani zarich mita
+  i want to sleep - ani roze lischon
+  is there a bed here - jeschkan mita
+  i need a lamp - ani zarich menorah
+  i want to read - ani roze likro
+  is there a lamp here - jesch kan menora
+  i need a telephon - ani zarich telephon
+  i want to make a call - ani roze letalpen
+  is there a telephone here - jesch kan telephone
+  i need a camere - ani zarich mazlema
+  i want to take photograms -
+  is there a camera here - jesch kan mazlema
+  I need a computer - ani zarich machschev
+  i want to send an email - ani roze lischloach email #
+  is there a computer here - jesch kan machschev
+  i need a pen - ani zarich et
+  I want to write somethin - ani roza lichtov maschehu
+  is there a sheet of paper ... -  jesch kan ...
+
+}
+{ 4:40 (70)
+
+  to like somehting - lirzot maschehu
+
+  would you like to smoke
+  would you like to dance - ata rozeh lirkot
+  ... to go for a wolk  - latayel
+  I'd like to smoke - ani roze leaschen
+  would you like a cigarete - at roza cigarja #
+  ...
+  I want to drink somehing - ani roze lischtet maschehu
+  I want to eat something - ani reze l'echol maschehu
+  .. to relax a little - lanuach zkat
+  ... ask you something - lischol otcha maschehu
+  ... aks you for something - levakesch ... 
+  ... to treat you to something - 
+  what would you like - ma tirze
+  would you like a coffe - tirze lischtot coffee
+  or do you prefer a tea - o ulai ...
+  we want to drive home - anachnu rozim ...
+  do you want a taxi - tirzu monit
+  they want to make a call - hem rozim letalpen / hen rozot letalpen
+}
+{ 4:44 
+
+  what do you want to do  - ma tirzu
+  do you want to play football - tirzu lesacheg kadu regel
+  .. to visit friends - levacher chaverim
+  to want - lirzot
+  I don't want to arrive late - ani lo roze lehagia ...
+  ... to go there - ... leleched hescham
+  ... to go home -
+  .. to stay at home - lehischaer le bait
+  .. to be alone - 
+  do you want to stay here - ata roza leischaer kan
+  do you want ot eat here - ata roze le'echol kan
+  ... to sleep here - ... lischon kan
+  ... to leave tomorrov - ... lasov machar
+  ... to stay till tomorrow - ... ad mechar
+  ... to pay the bill only tomorrow - ... leschalem ...
+  ... to go to the discoe - ... laleched la discothek
+  ... to the cinema - ... laleched la kolnoa
+  ... to a coffee - ... laleched le beith ha kaffee
+
+}
+{ 4:48 schivim u schtaim (72)
+
+  to have to do something / must - chaiavim maschehu
+  must - lihijot chajav
+  I must post the letter - ani muchrav lischloch ha ..
+  ... pay the hotel - ani hajav leschalem ha ma...
+  ... get up early - ani muchrava ...
+  you must work a lot - 
+  you must be punctual - ata muchrav 
+  he must - u muchrav letadleg
+  ... repair the car - letaken he metchonit
+  she must shop - hi chajevet ....
+  she must clean the appartment - hi chajevet le....
+  shue must wash the cloths - hi chajevet l'assod kwissa
+  he must go to school at once - anachnu ...
+  you must go to work at once - anachnu chavaim ... od mead
+  you must go to the doctor at once - anachnu ... od mead
+  you must wait for the bus - aten muchrachot .... la otobus #
+  you must wait for the train - .... la rakevet
+  ... for the taxi - ... la monit
+}
+{ 4:52 schivim ve schalosch (73)
+
+  To be allowed to - mutar maschehu
+  are you already allowed to drive  - kvar ..., be mechonid
+  ... to drink - kvar mutar lecha lischtot alcohol #
+  ... to travel abroad alone -
+  .
+  may / to be allowed - mutar
+  may we smoke here - mutarlu ...
+	is smoking allowed here? -
+	may one pay per credit card here - 
+	... by check - efschar leschalem be check
+	... only in cash - mutar leschalem bemusavan bilvad
+	
+	may I just make a call ? - mutarli letalpen
+	may ....
+	may i just say something ? - efschar ...
+
+	He is not allowed to sleep in the park - assurlo lischon ba park #
+	He is not allowed to sleep in the car - assurlo lischon ba mechonit
+	... at the train station - be ... 
+
+	May we take seat - anachnu jecholin ha schevet
+	may we have the menu - efschar letal....
+	may we pay separetly - efschar le...
+
+}
+{ 4:56 schivim ve arba (74)
+
+
+  Do you have a match or a lighter - jesch lecha gaopherimm ...
+	... an ashtray - ... ma afera
+	do you smoke cigars - at measchenet cigarim #
+	do you smoe cigarets - ...cigaryot #
+	... a pipe -. ... miktenet
+
+}
+{ 5:00 schivim ve chamesch (75)
+
+  Givin reasons one - letaretz maschehu echad
+
+	why aren't you coming - matua ...
+	the weather is so bad - me ... kol chach ra
+
+	I am not coming because the weahter is so bad - ani lo ba ...
+	whey is'nt he coming - madua lo ba
+	he isn't invited - hu lo husvan
+	he isn't coming because he isn't invited - hu lo...
+	why arent you coming - madua at lo baa
+	I have no time - einli sman
+	I am not coming because i have no time - ani lo ba ki enli sman
+	why don't you stay - madua ata lo ...
+	I still have to work - ani muchracha l'avod
+	I am not staying because I still have to work - ani lo ....
+	why are you going alread - madua ata kvar...
+	i am tired - ani ajef
+	i'm going because i';m tired - ani h...
+	why are you going alread - madua at kvar no...
+	it's lready late - kvar meuchar
+	I am going because it's already late - ani nossaed ki ..
+
+}
+{ 5:04  schivim ve schesch (76)
+
+  Giving reasons two - letarz maschehu schtaim
+
+	why didn't you come - lama lo bata
+	I was ill - Haiti chole
+	I didn't come because ill - lo bati ki haiti chole
+	whey didnt' she come - madua hi lo ba'a
+	she was tired - hi haita ajefa
+	shie didnt' come because she was tired - hi lo ba'a ki haita ...
+	why didn't he come - muda hu lo ba
+	...
+	hi didnt' come because he was not interessted - hu lo ba ki lo ...
+	why didn't you come - madua lo baten
+	our car is damaged - ha mechonid schelanu ...
+	we didn't come because our car is damaged - lo banu ...
+	why didn't the people come - madua  anaschim ...
+	they missed the trein -hem icharu le ha...
+}
+
